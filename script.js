@@ -1,3 +1,4 @@
+console.log("El script está funcionando correctamente.");
 // Seleccionamos los elementos del DOM
 const toggleThemeBtn = document.getElementById("toggle-theme");
 const infoText = document.getElementById("info");
